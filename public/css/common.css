@@ -1,0 +1,47 @@
+body {
+    background-color: #c9cccf;
+}
+.content {
+    background-color: #fff;
+    padding: 25px 0;
+}
+.header, .footer {
+    background-color: #434F5B;
+    color: #fff;
+    padding: 2% 5%;
+}
+.ad_block {
+    margin: 15px 0;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.ad_block .ad_body {
+    background-color: #ddd;
+    border-top: 1px solid #ddd;
+    padding: 10px 30px;
+}
+.button_block, .create_btn_block {
+    padding: 15px;
+}
+.header .logo {
+    margin: 0;
+}
+.header .logo a {
+    text-decoration: none;
+    color: #fff;
+}
+.header p, .header button {
+    display: inline-block;
+}
+.header button {
+    margin-left: 20px;
+}
+.ad_detail {
+    border-top: 1px solid #ccc;
+    padding: 25px 0;
+}
